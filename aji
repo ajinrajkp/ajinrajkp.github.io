@@ -1,0 +1,12 @@
+<html>
+<head><title>your name protfolio</title>
+<style>
+.title{color:red;text-align:center;}
+.para{color:green;}
+</style>
+</head>
+<body>
+<h1 class='title'>welcome to my port</h1>
+<p class='para'>I am ajin.i am an engineer</p>
+</body>
+</html>
